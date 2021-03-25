@@ -31,5 +31,4 @@ Thats all :P
 
 ### unix
 
-1. [8 способов создания паролей](docs/unix/8-ways-to-generate-passwords)
-2. 
+1. [8 способов создания паролей](docs/unix/8-ways-to-generate-passwords).
