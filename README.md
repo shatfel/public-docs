@@ -31,4 +31,4 @@ Thats all :P
 
 ### usefull hacks
 
-1. [8 способов создания паролей](docs/unix/8-ways-to-generate-passwords.md).
+1. [8 способов создания паролей](/docs/tools-and-hacks/8-ways-to-generate-passwords.md#contents).
