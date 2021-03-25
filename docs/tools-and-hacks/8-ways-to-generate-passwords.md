@@ -20,7 +20,7 @@
 
 ```zsh
 for i in `seq 1 10`; do
-  echo -n "$i. "
+  echo -n "${i}. "
   <код примера>
   done
 ```
