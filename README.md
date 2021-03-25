@@ -1,8 +1,12 @@
 # public-docs
 
-## Content
+## Contents
 
-1. About
+- [public-docs](#public-docs)
+  - [Contents](#contents)
+  - [About](#about)
+  - [Install](#install)
+  - [Docs content](#docs-content)
 
 ## About
 
@@ -22,4 +26,5 @@ git clone https://github.com/shatfel/public-docs
 
 Thats all :P
 
-## Content
+## Docs content
+
