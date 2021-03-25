@@ -7,7 +7,7 @@
   - [About](#about)
   - [Install](#install)
   - [Docs content](#docs-content)
-    - [unix](#unix)
+    - [usefull hacks](#usefull-hacks)
 
 ## About
 
@@ -29,6 +29,6 @@ Thats all :P
 
 ## Docs content
 
-### unix
+### usefull hacks
 
 1. [8 способов создания паролей](docs/unix/8-ways-to-generate-passwords).
