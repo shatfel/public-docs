@@ -13,6 +13,8 @@
     - [Примеры](#примеры-2)
   - [Способ №4](#способ-4)
     - [Примеры](#примеры-3)
+  - [Способ №5](#способ-5)
+    - [Примеры](#примеры-4)
 
 ## Предисловие
 
@@ -139,4 +141,29 @@ gpg --gen-random --armor 1 *<count>
 
 ```zsh
 
+```
+
+## Способ №5
+
+```zsh
+apg -n<count> -m<minlen> -x<maxlen>
+```
+
+### Примеры
+
+```
+% apg -n 10 -m8 -x14
+```
+
+```
+jeducnunBacEuj  
+IrdAystomciko  
+RhookOdGaut2  
+covtaryeypyen  
+mykAkvik  
+DuzThegEgNik~  
+Ar`Vimpeugilno  
+TrijDeofeeFref  
+AkPihainn  
+gojyocKegbie
 ```
