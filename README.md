@@ -32,3 +32,4 @@ Thats all :P
 ### usefull hacks
 
 1. [5 способов создания паролей](/docs/tools-and-hacks/5-ways-to-generate-passwords.md#contents).
+2. [Установка Seafile Server CE вертки 8.x](/docs/tools-and-hacks/seafile-server-8x-install.md)
