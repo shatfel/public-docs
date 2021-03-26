@@ -139,7 +139,20 @@ gpg --gen-random --armor 1 *<count>
 ### Примеры
 
 ```zsh
+% for i in `seq 1 10`; do echo -n "$i. " ; gpg --gen-random --armor 1 14; done
+```
 
+```
+1. 4l3bw8BjqFbSyUBvb8A=
+2. LXr//e2szxZZ2tRGPnM=
+3. CL5lwLnIUM/hzrz/+/Q=
+4. E9Yx6va94ULlQhGuKRU=
+5. wZa4ixDE8luw+1B2Nbw=
+6. oHTdvqh7eSwTkCC7cvE=
+7. 5KENULLGug1XL3u9ixk=
+8. PUueNi2BoCP+iUrlNIM=
+9. eHt/eN+mPEfTJ1SaDtQ=
+10. usdWww+Uh+kXqy5ztOk
 ```
 
 ## Способ №5
