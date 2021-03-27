@@ -24,4 +24,4 @@ git clone https://github.com/shatfel/public-docs
 
 ## Настройка сервисов
 
-2. [Установка Seafile Server CE вертки 8.x](/docs/services-config/seafile-server-8x-install.md)
+1. [Установка Seafile Server CE вертки 8.x](/docs/services-config/seafile-server-8x-install.md)
