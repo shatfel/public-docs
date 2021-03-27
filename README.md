@@ -33,3 +33,5 @@ Thats all :P
 
 1. [5 способов создания паролей](/docs/tools-and-hacks/5-ways-to-generate-passwords.md#contents).
 2. [Установка Seafile Server CE вертки 8.x](/docs/tools-and-hacks/seafile-server-8x-install.md)
+3. [Настройка default ttl для Windows 8-10, чтобы раздавать Инет с телефона](/docs/tools-and-hacks/windows-8-10-default-TTL-for-mobile-tethering.md)
+4. [Настройка ttl для Linux, чтобы раздавать Инет с телефона](/docs/tools-and-hacks/linux-TTL-for-mobile-tethering.md)
