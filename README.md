@@ -25,3 +25,4 @@ git clone https://github.com/shatfel/public-docs
 ## Настройка сервисов
 
 1. [Установка Seafile Server CE вертки 8.x](/docs/services-config/seafile-server-8x-install.md)
+2. [Установка matrix-synapse self-hosted + tls + федерация](https://github.com/shatfel/matrix-template) (Переписать как отдельную статью)
