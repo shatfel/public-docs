@@ -1,0 +1,16 @@
+[Unit]
+Description=Run some software
+##Documentation=man:???
+After=nginx.target
+Wants=nginx.target
+
+[Service]
+Type=notify
+EnvironmentFile=/etc/someDaemon.conf
+##EnvironmentFile=/var/www/html/site1/config.conf
+ExecStart=${someDaemonStartScript}
+Restart=always
+RestartSec=${someDaemonRestartTimeout}
+
+[Install]
+WantedBy=multi-user.target
