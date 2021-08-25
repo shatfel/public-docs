@@ -44,5 +44,27 @@ WantedBy=multi-user.target
 Срхраняем в `/etc/systemd/system/someDaemon.service`. Пишем дальше `/etc/someDaemon.conf`:
 
 ```sh
+wwwRoot=/var/www/html
+wwwPort=3000
+user=www-data
+group=www-data
+pidFile=/var/run/someDaemon.pid
 
+someDaemonStartScript=/usr/local/sbin/someDaemon
+someDaemonRestartTimeout=10
+```
+
+После чего обновим списки unit`ов systemd:
+```sh
+systemctl daemon-reload
+```
+
+И наконец запустим:
+```sh
+systemctl start someDemon.service
+```
+
+Если надо запускать при старте ОС: 
+```sh
+systemctl enable someDaemon.service
 ```
