@@ -1,4 +1,4 @@
-# public-docs
+# public-docs (Alexendia, 2021)
 
 - [public-docs](#public-docs)
   - [О чём это фсё??](#о-чём-это-фсё)
