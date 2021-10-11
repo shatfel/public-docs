@@ -27,7 +27,7 @@ git clone https://github.com/shatfel/public-docs
 3. [Настройка ttl для Linux, чтобы раздавать Инет с телефона](docs/tools-and-hacks/linux-TTL-for-mobile-tethering.md)
 4. [Пример systemd unit](docs/tools-and-hacks/systemd-unit-example.md)
 5. Git
-   1. [Настройка окружения](docs/git-enf.md)
+   1. [Настройка окружения](docs/git-env.md)
    2. [Работа с двумя копиями репы](docs/git-two-remotes.md)
 
 ## Настройка сервисов
