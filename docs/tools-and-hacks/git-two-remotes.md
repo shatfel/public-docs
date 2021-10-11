@@ -18,3 +18,5 @@ git remote set-url --add --push <repo name> <repo url>
 	pushurl = <url первого>
 	pushurl = <url второго>
 ```
+
+И далее `git push all`.
