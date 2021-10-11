@@ -1,6 +1,6 @@
 # public-docs (Alexendia, 2021)
 
-- [public-docs](#public-docs)
+- [public-docs (Alexendia, 2021)](#public-docs-alexendia-2021)
   - [О чём это фсё??](#о-чём-это-фсё)
   - [Установка](#установка)
   - [Полезные хаки](#полезные-хаки)
@@ -26,6 +26,9 @@ git clone https://github.com/shatfel/public-docs
 2. [Настройка default ttl для Windows 8-10, чтобы раздавать Инет с телефона](docs/tools-and-hacks/windows-8-10-default-TTL-for-mobile-tethering.md)
 3. [Настройка ttl для Linux, чтобы раздавать Инет с телефона](docs/tools-and-hacks/linux-TTL-for-mobile-tethering.md)
 4. [Пример systemd unit](docs/tools-and-hacks/systemd-unit-example.md)
+5. Git
+   1. [Настройка окружения](docs/git-enf.md)
+   2. [Работа с двумя копиями репы](docs/git-two-remotes.md)
 
 ## Настройка сервисов
 
