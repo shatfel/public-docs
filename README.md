@@ -36,3 +36,4 @@ git clone https://github.com/shatfel/public-docs
 2. [Установка matrix-synapse self-hosted + tls + федерация](https://github.com/shatfel/matrix-template)**(Переписать как отдельную статью)**
 3. Настройка aria2c + AriaNg + скрипт для запуска**(на скорую руку, суть в логике, а рюшки - сами или на хуй)**
 4. [Минимальный рабочий конфиг pf firewall для FreeBSD](docs/services-config/pf-minimal.md)
+5. [Минимальный рабочий конфиг pf firewall для FreeBSD-2 (macros)](docs/services-config/pf-minimal-macroses.md)
