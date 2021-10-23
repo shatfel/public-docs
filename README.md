@@ -35,4 +35,4 @@ git clone https://github.com/shatfel/public-docs
 1. [Установка Seafile Server CE вертки 8.x](docs/services-config/seafile-server-8x-install.md)
 2. [Установка matrix-synapse self-hosted + tls + федерация](https://github.com/shatfel/matrix-template)**(Переписать как отдельную статью)**
 3. Настройка aria2c + AriaNg + скрипт для запуска**(на скорую руку, суть в логике, а рюшки - сами или на хуй)**
-4. [Минимальный рабочий конфиг pf firewall для FreeBSD]()
+4. [Минимальный рабочий конфиг pf firewall для FreeBSD](docs/services-config/pf-minimal.md)
