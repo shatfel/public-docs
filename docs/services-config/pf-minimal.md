@@ -12,10 +12,10 @@ scrub in all
 block in  all
 
 ## allow some tcp
-pass in proto tcp to port { tcp port list }
+pass in proto tcp to port { 22 80 443 }
 
 ## allow some udp
-pass in proto udp to port { udp port list}
+pass in proto udp to port { 53 5353 853 }
 
 ## allow out all
 pass out proto { tcp udp }
